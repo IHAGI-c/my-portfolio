@@ -1,9 +1,0 @@
-{
-  "editor.formatOnSave": true,
-  "editor.codeActionsOnSave": {
-    "source.organizeImports.biome": "explicit"
-  },
-  "[javascript][typescript][javascriptreact][typescriptreact]": {
-    "editor.defaultFormatter": "biomejs.biome"
-  }
-} 
